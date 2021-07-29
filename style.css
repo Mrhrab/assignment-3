@@ -17,5 +17,32 @@
   
 
 }
+.paragraph-styles{
+    color: #E76F51;
+    font-size: 14px;
+
+}
+.featured-bike{
+    width: 288px;
+    height: 243px;
+    filter: grayscale(100%);
+
+}
+.non-greyscale{
+    width: 288px;
+    height: 243px;
+}
+
+.happy-client{
+    
+    color: #E76F51;
+;
+}
+.fas{
+  color: goldenrod;
+}
+.far{
+    color:goldenrod;
+}
 
     
